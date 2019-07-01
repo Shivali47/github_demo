@@ -1,2 +1,3 @@
 Test Git Quick Start demo
 this is 2nd line
+I understood how to insert in a text line
